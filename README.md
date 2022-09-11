@@ -1,6 +1,3 @@
-# darey-masterclass
-
-
 
 ## Getting started
 
